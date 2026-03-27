@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=HunterGhost 
+Comment=Massive Exploiting Tool Revealed - An easy tool to generate backdoor & post exploitation attack.
+Exec=gnome-terminal -t "HunterGhost 1.9.5" --geometry=600x630 -e "bash -c 'HunterGhost';-bash"
+Icon=/usr/share/icons/HunterGhost.ico
+Terminal=true
+Type=Application
+StartupNotify=false
